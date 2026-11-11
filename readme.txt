@@ -22,6 +22,9 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get
 help me understand difference between getter and methods
 
+https://getbootstrap.com/docs/4.0/utilities/sizing/
+
+
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
 N/A
