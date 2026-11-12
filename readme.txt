@@ -13,9 +13,11 @@
 
 2. How long, in hours, did it take you to complete this assignment?
 
-1 hour for part 1 and set up
-3 hours for part 2
-................
+7 hours in total.
+    1 hour for part 1 and set up
+    3 hours for part 2
+    2 hours for part 3
+    1 hour for part 4 and 5
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
 
@@ -31,7 +33,7 @@ N/A
 
 5. Did you add a bonus feature to your submission? If so, what is it and how should we see it?
 
-
+N/A
 
 6. Is there anything special we need to know in order to run your code?
 
